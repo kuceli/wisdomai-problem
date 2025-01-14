@@ -6,6 +6,7 @@ To run this project locally and build for production, follow these steps:
 Ensure you have the following installed:
 
 Node.js (version 16 or higher recommended)
+
 npm or yarn
 
 2. Clone the Repository
