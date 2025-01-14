@@ -15,11 +15,11 @@ To run this project locally and build for production, follow these steps:
     * cd wisdomai-app
 
 4. Install Dependencies
-    * Using npm install
-    * Or with yarn
+   
+   Using npm install Or with yarn
 
-5. Run the Development Server
-    * Using npm run dev
-    * or yarn dev
+6. Run the Development Server
+   
+   Using npm run dev or yarn dev
 
 This will start a local development server.
