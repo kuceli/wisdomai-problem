@@ -1,8 +1,21 @@
-# React + Vite
+# Build and Run Instructions for a React + Vite Project
+To run this project locally and build for production, follow these steps:
+1. Prerequisites
+Ensure you have the following installed:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Node.js (version 16 or higher recommended)
+npm or yarn
 
-Currently, two official plugins are available:
+2. Clone the Repository
+git clone https://github.com/kuceli/wisdomai-problem.git
+cd wisdomai-app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+3. Install Dependencies
+Using npm install
+Or with yarn
+
+4. Run the Development Server
+Using npm run dev
+or yarn dev
+
+This will start a local development server.
