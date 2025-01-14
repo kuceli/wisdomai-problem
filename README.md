@@ -1,6 +1,8 @@
 # Build and Run Instructions for a React + Vite Project
 To run this project locally and build for production, follow these steps:
 1. Prerequisites
+
+
 Ensure you have the following installed:
 
 Node.js (version 16 or higher recommended)
