@@ -3,11 +3,11 @@ To run this project locally and build for production, follow these steps:
 1. Prerequisites
 
 
->> Ensure you have the following installed:
+    Ensure you have the following installed:
 
->> Node.js (version 16 or higher recommended)
+    * Node.js (version 16 or higher recommended)
 
->> npm or yarn
+    * npm or yarn
 
 2. Clone the Repository
 git clone https://github.com/kuceli/wisdomai-problem.git
